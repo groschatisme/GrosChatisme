@@ -1,12 +1,11 @@
-Description of ceremonies for GROS_CHATISTE
-###
+# Description of ceremonies for the GROS_CHATISTEs
 
 fonction CER001 = Ceremony to became a GROS_CHATISTE
   load
   if GROS_CHATISTE
-    fondle a cat 
+    pet a cat 
     else
-      fondle a living object
+      pet a living object
       
 ###
 fonction CER002 = Ceremony to retire from GROS_CHATISME
@@ -14,9 +13,9 @@ fonction CER002 = Ceremony to retire from GROS_CHATISME
  
 ###
 fonction CER003 = Funerals as a GROS_CHATISTE
-  Make sad and living people fondle a cat
+  Make sad and living people pet a cat
     else
-      fondle a living object
+      pet a living object
     before dying, insure to had something fun written on your tombstone
   
       
